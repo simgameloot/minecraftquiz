@@ -1,2 +1,2 @@
-# minecraftquiz
- Minecraft Quiz 
+# LinGo: Learn Japanese Alphabet
+
